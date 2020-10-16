@@ -11,4 +11,4 @@
 - 🌱 Currently learning: TypeScript, Python3
 - 🏡 I'm a developer based in Brooklyn, New York.
 - 💻 [Check out my portfolio](https://www.krisztianholub.com)
-- 📫 How to reach me: ![kholub1989@gmail.com](kholub1989@gmail.com)
+- 📫 How to reach me: @[kholub1989@gmail.com](kholub1989@gmail.com)
