@@ -1,6 +1,4 @@
-### Hi, I'm Krisztian 👋
-
-## I design and build beautiful things and I love what I do.
+![Krisztian Holub](https://i.ibb.co/f8wQ09D/Screen-Shot-2020-10-15-at-6-11-52-PM.png
 
 - 🔭 I’m currently OPEN to work.
 - 🚀 My favorite languages and tools:
