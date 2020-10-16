@@ -10,5 +10,5 @@
   - Photoshop | XD | Figma | SVG
 - 🌱 Currently learning: TypeScript, Python3
 - 🏡 I'm a developer based in Brooklyn, New York.
-- 💻 Check out my portfolio: [portfolio](https://www.krisztianholub.com)
+- 💻 Check out my portfolio: [www.krisztianholub.com](https://www.krisztianholub.com)
 - 📫 How to reach me: [kholub1989@gmail.com](mailto:kholub1989@gmail.com)
