@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Krisztian 👋
 
-<!--
-**kholub1989/kholub1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I design and build beautiful things and I love what I do.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently OPEN to work.
+🚀 My favorite languages and tools:
+  - JavaScript | React.js | Node.js
+  - MongoDB | Express | Redux | REST | OOP
+  - HTML5 | CSS3 | Less and Sass | Bootstrap 
+  - Photoshop | XD | Figma | SVG
+🌱 Currently learning: TypeScript, Python3
+🏡 I'm a developer based in Brooklyn, New York.
+💻 [Check out my portfolio](https://www.krisztianholub.com)
+📫 How to reach me: [kholub1989@gmail.com](kholub1989@gmail.com)
