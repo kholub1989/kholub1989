@@ -1,6 +1,6 @@
-### Hi, I'm Krisztian 👋
+## Hi, I'm Krisztian 👋
 
-## I design and build beautiful things and I love what I do.
+### I design and build beautiful things and I love what I do.
 
 - 🔭 I’m currently OPEN to work.
 - 🚀 My favorite languages and tools:
