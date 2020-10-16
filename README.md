@@ -1,5 +1,6 @@
-![Krisztian Holub](https://i.ibb.co/cwpwD22/Screen-Shot-2020-10-15-at-7-23-49-PM.png)
+### Hi, I'm Krisztian 👋
 
+## I design and build beautiful things and I love what I do.
 
 - 🔭 I’m currently OPEN to work.
 - 🚀 My favorite languages and tools:
