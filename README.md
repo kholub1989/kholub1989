@@ -1,4 +1,5 @@
-![Krisztian Holub](https://i.ibb.co/f8wQ09D/Screen-Shot-2020-10-15-at-6-11-52-PM.png)
+![Krisztian Holub](https://i.ibb.co/cwpwD22/Screen-Shot-2020-10-15-at-7-23-49-PM.png)
+
 
 - 🔭 I’m currently OPEN to work.
 - 🚀 My favorite languages and tools:
