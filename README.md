@@ -8,7 +8,7 @@
   - MongoDB | Express | Redux | REST | OOP
   - HTML5 | CSS3 | Less and Sass | Bootstrap 
   - Photoshop | XD | Figma | SVG
-- 🌱 Currently learning: TypeScript, Python3
+- 🌱 Currently learning: TypeScript
 - 🏡 I'm a developer based in Brooklyn, New York.
 - ⭐️ Fun fact: I love 🏊 🚴 🏃 = 🏅
 ### 📬 Connect with me:
