@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently OPEN to work.
 - 🚀 My favorite languages and tools:
-  - JavaScript | React.js | Node.js
-  - MongoDB | Express | Redux | REST | OOP
+  - JavaScript | React.js | Redux | Node
+  - MongoDB | Express | REST | OOP
   - HTML5 | CSS3 | Less and Sass | Bootstrap 
   - Photoshop | XD | Figma | SVG
-- 🌱 Currently learning: TypeScript
+- 🌱 Currently learning: TypeScript | Python
 - 🏡 I'm a developer based in Brooklyn, New York.
 - ⭐️ Fun fact: I love 🏊 🚴 🏃 = 🏅
 ### 📬 Connect with me:
