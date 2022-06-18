@@ -2,13 +2,11 @@
 
 ### I design and build beautiful things and I love what I do.
 
-- 🔭 I’m currently OPEN to work.
+- 🔭 I'm currently employed by Invaluable.
 - 🚀 My favorite languages and tools:
-  - JavaScript | React.js | Redux | Node
-  - MongoDB | Express | REST | OOP
+  - JavaScript | React.js | Node
   - HTML5 | CSS3 | Less and Sass | Bootstrap 
   - Photoshop | XD | Figma | SVG
-- 🌱 Currently learning: TypeScript | Python
 - 🏡 I'm a developer based in Brooklyn, New York.
 - ⭐️ Fun fact: I love 🏊 🚴 🏃 = 🏅
 ### 📬 Connect with me:
