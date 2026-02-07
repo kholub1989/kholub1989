@@ -4,8 +4,8 @@
 
 - 🔭 I'm currently employed by AuctionZip at Invaluable.
 - 🚀 My favorite languages and tools:
-  - JavaScript | React | Node
-  - HTML5 | CSS3 | Sass/Less | Bootstrap 
-  - Figma | XD | Photoshop
+  - JavaScript | Node.js | React | TypeScript
+  - HTML5 | CSS3 | Sass | Bootstrap 
+  - Figma
 - 🏡 Based in Brooklyn, NY
 - ⭐️ Fun fact: I love 🏊 🚴 🏃 = 🏅
